@@ -106,7 +106,7 @@ body {
    ?>
     <div class="grid-container">
       <div class="header">
-        <h2>Header</h2>
+        <h1 style="background-color:#b3b300; font-family: courier; font-size: 160%; text-align: center">Alternative of mannual second step verification</h1>
       </div>
 
       <div class="left" style="background-color:#aaa;">Column</div>
@@ -129,7 +129,11 @@ body {
       <div class="right" style="background-color:#ccc;">Column</div>
 
       <div class="footer">
-        <p>Footer</p>
+        <hr>
+        <img src="C:\Users\khaledurm\Downloads\WhatsApp Image 2022-07-07 at 1.37.56 PM.jpeg" alt="Khaledur Rahman Mahir" style="width:128px;height:128px;align-content:flex-start">
+        <h2 style="align-content:;">Khaledur Rahman Mahir</h2>
+        <p>IT Placement Student - Development</p>
+        <hr>
       </div>
     </div>
 
